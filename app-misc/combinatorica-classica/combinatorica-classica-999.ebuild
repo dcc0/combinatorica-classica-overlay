@@ -13,10 +13,7 @@ PROPERTIES="live"
 DEPEND=""
 RDEPEND="${DEPEND}"
 BDEPEND=""
-elog "Executables files are here: /usr/local/bin/";
-elog "Files extension is .comb";
-elog "To install the program manually: run ./install.sh";
-elog "Благодарим за использование пакета (thank you for interest in and use)  Combinatorica Classica";
+
 src_compile() {
   chmod +x ./install.sh
   ./install.sh
@@ -26,4 +23,3 @@ src_install() {
   into /usr/local/
   dobin bin/*
 }
-
