@@ -2,7 +2,7 @@ Overlay  "Combinatorica classica" contains 8 classical (iterative) combinatorial
 for Gentoo Linux and Gentoo-based systems like Calculate Linux, written entirely in C (ANSI) to
 run in terminal. These are educational programs and written for educational purposes.
 They have no license but you can determine license like Public Domain. 
-Author: Ivan Gavryuisn (aka dcc0, Black_Ru, MoL0T, iv777)
+Author: Ivan Gavryushin (aka dcc0, Black_Ru, MoL0T, iv777)
 dcc0@mail.ru, ivangavr777@gmail.com, dcc0@yandex.ru, mol0t@list.ru. 
 MSK. Butovo. 2010-2025
 
